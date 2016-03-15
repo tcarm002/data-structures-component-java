@@ -1,0 +1,23 @@
+The purpose of this writing is to show you how to learn Java Programming by implementing computer programming concepts using the Java Language, no previous programming knowledge is required.
+Java has over 3.6 billion installations, as of this writing.
+Humans communicate with each other by using thousands of languages. We communicate by sound, writing, signing and visually. Human languages have sets of rules that tell us how to use them so that we can understand each other. 
+All Computers, also known as Digital Machines, use a common numerical system to communicate with humans and each other, called The Binary Numerical System. Today's computer languages are implemented using plain English which in turn gets converted into Binary by other programs called Compilers and Interpreters. 
+We are living in a wonderful time where we can use multiple computer languages to solve our tasks, without having to worry about writing our programs in binary, which is quite complex and time consuming.
+There are hundreds of computer languages, each having specific purposes with very clear and precise rules, and just like in human languages when we learn to communicate an idea with each other, if we need to do it in a different language all we need to learn is the syntax, we already know what we want to communicate (the concepts). 
+Once we learn one programming language like Java, writing our ideas in another language is easy because the syntax we use in many different languages is very similar, and in some cases exactly the same e.g:
+      if( temperature > 150 )
+          exit
+The world's first computer programmer was Lady Ada Lovelace, an English writer (10th December 1815 – 27th November 1852). Her work on Charles Babbage's analytical engine, an early mechanical general-purpose computer, is recognized as the first algorithm to be  processed by a machine.   
+The computer language Ada, created for the United States Department of Defense, was named after Ada Lovelace.
+This writing is intended to help my students understand the material that I teach in the classroom.
+Learning Computer Programming to me is the same as learning to drive an automobile, it must be done by doing it (writing programs). In this writing the sequence of topics are presented in a logical manner, all concepts and commands in any section are either new or has been learned in a previous section. 
+All sample programs presented are original, and are to be used as an example for the programs that will be assigned as projects and/or exams. 
+To me writing a program is like building a house, and that is precisely how this writing has been created. First we start with the  description of the task at hand, then we write the plans (pseudo code), and if needed a flowchart, following by the actual programing code called “source code”, finally we test it and then we make the guaranteed corrections. Pseudo code and flowcharts are done in class.
+Rule number one in Computer Science says: “If a program works the first time, there is something wrong with it”. 
+Just like building a house, in programming, if we have a clear and precise description, pseudo-code, flowcharts, and knowledge of the language, creating the program is easier. 
+Usually people who start programing without the proper plans, spend great amounts of time fixing the errors (debugging the program).
+Planning your work well, makes for an easy implementation of your plan.
+Happy Programming!!!
+
+-Michael Robinson
+
